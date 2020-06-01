@@ -15,4 +15,4 @@ spec:
     spec:
       containers: 
       - name: httpd
-        image: 269mehta/webserver-httpd:v1
+        image: 269mehta/webserver-httpd:latest
